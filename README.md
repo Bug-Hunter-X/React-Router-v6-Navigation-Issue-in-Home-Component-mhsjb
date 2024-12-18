@@ -1,0 +1,1 @@
+This repository demonstrates a common error in React Router v6:  Forgetting to use the `useNavigate` hook to implement navigation between components. The initial `Home.js` file shows the error, and `HomeSolution.js` provides the corrected code.
